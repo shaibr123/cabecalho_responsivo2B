@@ -1,0 +1,7 @@
+.cabecalho{
+    background-color: var(--cor-cabecalho);
+    padding: lem;
+}
+.container {
+    font-display: flex;
+    align-items: center;
